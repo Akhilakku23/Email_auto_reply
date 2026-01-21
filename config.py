@@ -6,6 +6,6 @@ PASSWORD =          # <-- Gmail App Password
 CHECK_INTERVAL = 60
 
 # OpenAI API config
-OPENAI_API_KEY = "sk-dVuqrYQKJaA8XKYKxIhLag"          # <-- your GPT API key
-OPENAI_BASE_URL = "https://api.futurexailab.com"
+OPENAI_API_KEY = ""          # <-- your GPT API key
+OPENAI_BASE_URL = ""
 GPT_MODEL = "gpt-4.1-nano"
