@@ -1,6 +1,6 @@
 # Gmail credentials
 EMAIL = "akhil25official@gmail.com"          # <-- your Gmail
-PASSWORD = "hxms hcip prga tdgq"          # <-- Gmail App Password
+PASSWORD =          # <-- Gmail App Password
 
 # Interval to check new emails (seconds)
 CHECK_INTERVAL = 60
